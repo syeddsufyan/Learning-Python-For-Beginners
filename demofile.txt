@@ -1,0 +1,13 @@
+# # import csv
+# # with open('demo2.txt', 'w', newline="") as file:
+# #         writer = csv.writer(file)
+# #         writer.writerow(['name', 'department', 'birthday', 'month'])
+# # #           writer.writerow(['ayan', 'cs', '2003', '05'])
+# # #           writer.writerow(['maryam', 'bio', '2001', '02'])
+# # #           print('Write File Succusfully')
+# # for x in range(1,1000000):
+# #         print(x)
+# a = 5
+# i = 8
+# while i > a:
+#         print('Allah Ek Hai Or Wo Sub Sa Raheem Hai Or Wo Maf Karna Wala Bhut Payra Hai ')
